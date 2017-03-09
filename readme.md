@@ -12,7 +12,7 @@
 C:\Development\chilkat-electron-test  (chilkat-electron-test@0.0.0)
 λ npm start
 
-> chilkat-electron-test@0.0.0 start C:\Development\chilkat-electron-test
+> chilkat-electron-test@0.0.0 start C:\Users\charlotte.murray\Documents\Development\chilkat-electron-test
 > electron .
 
 
