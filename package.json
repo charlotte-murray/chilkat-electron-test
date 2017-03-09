@@ -1,0 +1,20 @@
+{
+  "name": "chilkat-electron-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "rebuild": "electron-rebuild"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chilkat_node7_win32": "^9.50.65",
+    "electron": "^1.6.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.5.7"
+  }
+}
